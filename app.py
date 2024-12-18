@@ -2,7 +2,6 @@ from flask import Flask, render_template
 import folium
 import geopandas as gpd
 import rasterio
-from rasterio.plot import show
 from matplotlib.colors import LinearSegmentedColormap
 
 
